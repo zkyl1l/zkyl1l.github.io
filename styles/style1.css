@@ -1,0 +1,33 @@
+.drr:hover{
+    background-color:lightgrey;
+}
+body{
+    font-family:cursive;
+}
+td{
+    border:1px black solid;
+    background-color:white;  
+    text-align:center;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.48); 
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.48);
+}
+table{
+    width:100%;
+    border-spacing:20px;
+    table-layout:fixed; 
+}
+.drr{
+    margin: 20px;
+}
+span{
+    float:right;
+}
+a{
+    border:1px cyan solid;
+    float:left;
+    padding:6px;
+    border-radius:10px;
+}
+.drrr{
+    margin:20px;
+}
